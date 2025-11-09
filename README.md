@@ -17,21 +17,21 @@ Path: streamlit_forecaster/
 
 A complete, interactive forecasting system supporting multiple models:
 
-✅ LightGBM GBDT (quantile forecasting)
-✅ Naive baseline
-✅ ARIMA
-✅ Facebook Prophet
-✅ XGBoost
-✅ LSTM integration
-✅ Interactive uncertainty bands (quantiles / confidence)
-✅ Auto feature engineering (returns, rolling stats, MACD, RSI…)
-✅ Auto target-space inference (Price / Delta / Return)
-✅ Lightweight backtesting — MAE / RMSE / MAPE
-✅ Feature importance panel (GBDT gain)
-✅ Export predictions → CSV
-✅ Save run history → outputs/runs/
-✅ One-click HTML report export
-✅ Interactive visualization (Altair)
+✅ LightGBM GBDT (quantile forecasting)  
+✅ Naive baseline  
+✅ ARIMA  
+✅ Facebook Prophet  
+✅ XGBoost  
+✅ LSTM integration  
+✅ Interactive uncertainty bands (quantiles / confidence)  
+✅ Auto feature engineering (returns, stats, MACD, RSI…)  
+✅ Auto target-space inference (Price / Delta / Return)  
+✅ Lightweight backtesting w/ MAE / RMSE / MAPE  
+✅ Feature importance panel (GBDT gain)  
+✅ Export predictions → CSV  
+✅ Save run history → `outputs/runs/`  
+✅ One-click HTML report export  
+✅ Interactive Plot (Altair)  
 
 ---
 
