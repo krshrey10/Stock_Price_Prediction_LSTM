@@ -131,6 +131,12 @@ streamlit run streamlit_forecaster/app/streamlit_app.py
 
 ---
 
+## Demo
+
+![App Demo](streamlit_forecaster/assets/demo.gif)
+
+---
+
 ## ✅ Future Work
 
 Add transformer-based prediction
