@@ -10,6 +10,11 @@ a single-model research notebook → to a production-style interactive app.
 
 ---
 
+<img width="1905" height="918" alt="image" src="https://github.com/user-attachments/assets/c312f963-76d8-4f87-a0b8-1e6c093f772b" />
+<img width="1897" height="841" alt="image" src="https://github.com/user-attachments/assets/ebb8ad03-a4eb-4a7b-9182-cbd02db53879" />
+
+---
+
 ## ✅ 1) Highlights
 
 ### ✅ Latest — Streamlit Multi-Model Forecasting App
